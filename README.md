@@ -1,3 +1,5 @@
+![Nicolas Roberti (1)](https://github.com/user-attachments/assets/982e7218-ccf7-40d9-a96b-a9841f544c46)
+
 🚢💻 From international trade routes to clean, well-tested code.
 
 I’m a Logistics Specialist with over 15 years of experience optimizing logistics operations, developing domestic transport strategies, and managing cargo consolidation. Along the way, I discovered that what I truly enjoy is solving complex problems and improving processes.
