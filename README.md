@@ -18,5 +18,5 @@ Me apasiona aprender, construir puentes entre sectores y aportar una mirada anal
 
   [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nrobertise@gmail.com)
 
-  [![Discord](https://img.shields.io/badge/Discord-nicoroberti%231234-blue?style=for-the-badge&logo=discord&logoColor=white)]()
+  [![Discord](https://img.shields.io/badge/Discord-nicoroberti-blue?style=for-the-badge&logo=discord&logoColor=white)]()
 
