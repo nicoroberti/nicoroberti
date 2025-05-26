@@ -17,3 +17,6 @@ Me apasiona aprender, construir puentes entre sectores y aportar una mirada anal
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-roberti-seijas)
 
   [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nrobertise@gmail.com)
+
+  [![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nicolasroberti)
+
