@@ -1,17 +1,19 @@
 ![Nicolas Roberti (1)](https://github.com/user-attachments/assets/982e7218-ccf7-40d9-a96b-a9841f544c46)
 
-🚢💻 From international trade routes to clean, well-tested code.
+🚢💻 De las rutas internacionales al código limpio y bien probado.
 
-I’m a Logistics Specialist with over 15 years of experience optimizing logistics operations, developing domestic transport strategies, and managing cargo consolidation. Along the way, I discovered that what I truly enjoy is solving complex problems and improving processes.
+Soy especialista en Comercio Exterior con más de 15 años de experiencia optimizando operaciones logísticas, desarrollando estrategias de transporte interno y consolidación de cargas. Durante este tiempo, descubrí que lo que más disfruto es resolver problemas complejos y mejorar procesos.
 
-That curiosity recently led me into the world of technology. I completed a QA Engineer bootcamp, and today I’m ready to apply my skills in both manual and automated testing, with knowledge of Python, Selenium, JSON, Android Studio, Postman, Jira, and other tools.
+Esa curiosidad me llevó recientemente al mundo de la tecnología. Completé un bootcamp como QA Engineer, y hoy estoy listo para aplicar mis habilidades en testing manual y automatizado, con conocimientos en Python, Selenium, JSON, Android Studio, Postman, Jira, entre otras herramientas.
 
-I’m passionate about learning, building bridges between industries, and bringing an analytical and structured mindset—both from a logistics and a tech perspective.
+Me apasiona aprender, construir puentes entre sectores y aportar una mirada analítica y estructurada, tanto desde la logística como desde la tecnología.
 
-🧩 What’s next? Joining a team where I can contribute high-quality solutions, continue growing, and combine the best of both worlds: global operations experience and a software quality mindset.
+🧩 ¿El siguiente paso? Formar parte de un equipo donde pueda contribuir con soluciones de calidad, seguir creciendo y combinar lo mejor de ambos mundos: la experiencia en operaciones globales y el enfoque de calidad del software.
 
-📬 I’m open to new opportunities and connections in QA, testing, or tech roles where I can make a difference!
+📬 ¡Estoy abierto a nuevas oportunidades y conexiones en QA, testing o roles tech donde pueda marcar la diferencia!
 
-- 📫 How to reach me:
-  [Connect with me on LinkedIn](https://www.linkedin.com/in/nicolas-roberti-seijas)
-  [Email me](mailto:nrobertise@gmail.com)
+📫 How to reach me:
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-roberti-seijas)
+
+  [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nrobertise@gmail.com)
