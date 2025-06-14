@@ -2,17 +2,9 @@
 
 ![Nicolas Roberti (1)](https://github.com/user-attachments/assets/982e7218-ccf7-40d9-a96b-a9841f544c46)
 
-🚢💻 De las rutas internacionales al código limpio y bien probado.
+🚢💻 Apasionado por la calidad y la mejora continua, me desempeño como QA Engineer con sólida experiencia en Manual Testing, así como conocimientos en Automation, Web Testing, API Testing, Mobile Testing, utilizando herramientas como Postman y Selenium. Además, cuento con formación y experiencia técnica en el área de logística, lo que me permite tener una visión integral de los procesos y sus impactos en los sistemas.
 
-Soy especialista en Comercio Exterior con más de 15 años de experiencia optimizando operaciones logísticas, desarrollando estrategias de transporte interno y consolidación de cargas. Durante este tiempo, descubrí que lo que más disfruto es resolver problemas complejos y mejorar procesos.
-
-Esa curiosidad me llevó recientemente al mundo de la tecnología. Completé un bootcamp como QA Engineer, y hoy estoy listo para aplicar mis habilidades en testing manual y automatizado, con conocimientos en Python, Selenium, JSON, Android Studio, Postman, Jira, entre otras herramientas.
-
-Me apasiona aprender, construir puentes entre sectores y aportar una mirada analítica y estructurada, tanto desde la logística como desde la tecnología.
-
-🧩 ¿El siguiente paso? Formar parte de un equipo donde pueda contribuir con soluciones de calidad, seguir creciendo y combinar lo mejor de ambos mundos: la experiencia en operaciones globales y el enfoque de calidad del software.
-
-📬 ¡Estoy abierto a nuevas oportunidades y conexiones en QA, testing o roles tech donde pueda marcar la diferencia!
+Me destaco por mi pensamiento analítico y crítico, una comunicación asertiva y la capacidad de brindar soluciones efectivas que aporten valor real al negocio. Actualmente me encuentro en búsqueda de una oportunidad donde pueda aplicar y seguir potenciando mis conocimientos y habilidades en el mundo del aseguramiento de la calidad.
 
 # Skills: 
 ![Pruebas Automatizadas](https://img.shields.io/badge/Pruebas_Automatizadas-0d47a1?style=for-the-badge&logo=testing-library&logoColor=white&labelColor=0d47a1)
