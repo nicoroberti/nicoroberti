@@ -1,6 +1,6 @@
 # 👋 Hola Soy Nicolás! 
 
-![Nicolas Roberti (1)](https://github.com/user-attachments/assets/982e7218-ccf7-40d9-a96b-a9841f544c46)
+![Diseño sin título](https://github.com/user-attachments/assets/e6d2ebc0-df79-408b-81da-d3d2a7ac5700)
 
 🚢💻 Apasionado por la calidad y la mejora continua, me desempeño como QA Engineer con sólida experiencia en Manual Testing, así como conocimientos en Automation, Web Testing, API Testing, Mobile Testing, utilizando herramientas como Postman y Selenium. Además, cuento con formación y experiencia técnica en el área de logística, lo que me permite tener una visión integral de los procesos y sus impactos en los sistemas.
 
